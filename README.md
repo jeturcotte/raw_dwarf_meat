@@ -7,6 +7,11 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.1
+
+* fixed up the whole 'cold' star thing across all files and languages
+* added DECEIVE, DIRK, AEGIS, KRYSS, and KEEP (noun) to all languages and symbolisms
+
 ## version 0.1.0
 
 * Added azurite and covellite (colorful varieties/pseudomorphs of malachite)
