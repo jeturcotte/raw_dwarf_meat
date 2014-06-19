@@ -11,6 +11,7 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 * fixed up the whole 'cold' star thing across all files and languages
 * added DECEIVE, DIRK, AEGIS, KRYSS, and KEEP (noun) to all languages and symbolisms
+* added CHALCOPYRITE and BORNITE as rarer and more colurful copper/iron ore morphologies
 
 ## version 0.1.0
 
