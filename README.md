@@ -9,7 +9,7 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 ## version 0.1.0
 
-* Added azurite and covellite (varieties of malachite)
+* Added azurite and covellite (colorful varieties/pseudomorphs of malachite)
 * Added meteorite (in two forms, 'ancient' fallen star and 'cold star' (for a more recent meteorite))
 * Added the Aegis (a larger shield)
 * Added the Dirk (narrow slender dagger)
