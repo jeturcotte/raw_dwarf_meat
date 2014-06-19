@@ -164,7 +164,7 @@ http://www.bay12forums.com/smf/index.php?topic=80022.0
 [STONE_NAME:fallen star]
 [ENVIRONMENT:SEDIMENTARY:CLUSTER_ONE:1]
 [ITEM_SYMBOL:'*']
-[METAL_ORE:COLD_STAR:100]
+[METAL_ORE:DEAD_STAR:100]
 [STATE_NAME_ADJ:ALL_SOLID:fallen star]
 [STATE_NAME_ADJ:LIQUID:motlen star]
 [STATE_NAME_ADJ:GAS:boiling star]
