@@ -5,6 +5,12 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 ... for now, this ONLY includes modified files.
 
+# Wish list:
+
+* Pegmatite veins and proper gem association with them
+* Corrections re: mass/melting points for new minerals in 0.1.0 and 0.1.1
+* Implementation of some better tileset graphics from Kafine
+
 # Change log:
 
 ## version 0.1.1
