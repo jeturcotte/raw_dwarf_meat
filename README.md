@@ -5,12 +5,19 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 ... for now, this ONLY includes modified files.
 
+# Wish list:
+
+* Pegmatite veins and proper gem association with them
+* Corrections re: mass/melting points for new minerals in 0.1.0 and 0.1.1
+* Implementation of some better tileset graphics from Kafine
+
 # Change log:
 
 ## version 0.1.1
 
 * fixed up the whole 'cold' star thing across all files and languages
 * added DECEIVE, DIRK, AEGIS, KRYSS, and KEEP (noun) to all languages and symbolisms
+* added CHALCOPYRITE and BORNITE as rarer and more colurful copper/iron ore morphologies
 
 ## version 0.1.0
 
