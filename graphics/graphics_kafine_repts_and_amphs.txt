@@ -3,7 +3,7 @@ graphics_kafine_repts_and_amphs
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:KAFINE_REPTS_AND_AMPHS]
-	[FILE:kafine/reptiles.png]
+	[FILE:kafine/repts_and_amphs.png]
 	[TILE_DIM:16:16]
 	[PAGE_DIM:4:64]
 	
