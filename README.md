@@ -13,6 +13,11 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.2
+
+* rescued some of Kafine's good graphics and redistributed them in a more advanceable way.  This will make it easier to fill out gaps, and perhaps even wend our way to a complete kafine tileset that can run indepedently from others if desired... you know, someday.
+* modified one phoebus and one kohaku file to comment out the replaced items just in case you are using the phoebus tileset (which kafine's work is in, but was, in turn, heavily commented out.)
+
 ## version 0.1.1
 
 * fixed up the whole 'cold' star thing across all files and languages
