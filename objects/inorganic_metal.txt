@@ -365,9 +365,9 @@ Colors added by Bohandas.
 
 ... an alloy of metals (largely iron, nickel, zinc, perhaps some titanium laced with olivines)
 ... to be kept 'intact' by the worlds' natives who don't know any better.
-[INORGANIC:DEAD_STAR]
+[INORGANIC:FORGED_STAR]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
-	[STATE_NAME_ADJ:ALL_SOLID:dead star]
+	[STATE_NAME_ADJ:ALL_SOLID:forged star]
 	[STATE_NAME_ADJ:LIQUID:molten star]
 	[STATE_NAME_ADJ:GAS:boiling star]
 	[DISPLAY_COLOR:0:5:0]
