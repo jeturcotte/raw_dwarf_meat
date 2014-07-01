@@ -7884,7 +7884,7 @@ language_words
 		[OF_NOUN_PLUR]
 		
 [WORD:FORGED_STAR]
-	[NOUN:dead star:dead stars]
+	[NOUN:forged star:forged stars]
 		[FRONT_COMPOUND_NOUN_SING]
 		[REAR_COMPOUND_NOUN_SING]
 		[THE_COMPOUND_NOUN_SING]
