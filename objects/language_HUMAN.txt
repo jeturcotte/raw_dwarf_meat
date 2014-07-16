@@ -1952,7 +1952,7 @@ language_HUMAN
 	[T_WORD:COMPLEX:nedul]
 	[T_WORD:MEANDER:tapstren]
 	[T_WORD:MUDDLE:nothra]
-	[T_WORD:BEWILDER:quamun]
+	[T_WORD:BEWILDER:dakozi]
 	[T_WORD:MORASS:milub]
 	[T_WORD:PROBLEM:strospi]
 	[T_WORD:INTRICATE:naspa]
@@ -2205,4 +2205,6 @@ language_HUMAN
 	[T_WORD:MICROCLINE:arospara]
 	[T_WORD:AMAZONITE:elspara]
 	[T_WORD:ORTHOCLASE:sutspara]
+	[T_WORD:WILDERNESS:koziat]
+	[T_WORD:WILDS:kozit]
 	
