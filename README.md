@@ -14,14 +14,18 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.5 ~~ 'up with 2014!'
+
+* fixed entity_default.txt to be compatible with DF2014
+
 ## version 0.1.4 ~~ 'dread titanic wild holy birds'
 
 * added WILDS and WILDERNESS to all languages and symbolism
 * massively altered GIANT creature variation (probably toning their size down a bit)
 * added DREAD, HOLY, and TITANTIC (probably bigger than old giant variants, rare, and prone to claiming lairs) creature variations
 * created a more modular way to define a base 'mythically generic' creature from which procedural species (and their creature variations) can be derived
-** added 'thrush' family of birds in this manner
-*** added ROBIN, DUSKY THRUSH, and VEERY species and their corresponding nonhumanoid variations
+  * added 'thrush' family of birds in this manner
+    * added ROBIN, DUSKY THRUSH, and VEERY species and their corresponding nonhumanoid variations
 
 note: there is currently a bug with their descriptions wherein their beak color is failing to be described.  Anyone know why?
 
