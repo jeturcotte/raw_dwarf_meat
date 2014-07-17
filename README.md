@@ -27,8 +27,6 @@ just some stupid public repo of modified raw files for dwarf fortress
   * added 'thrush' family of birds in this manner
     * added ROBIN, DUSKY THRUSH, and VEERY species and their corresponding nonhumanoid variations
 
-note: there is currently a bug with their descriptions wherein their beak color is failing to be described.  Anyone know why?
-
 ## version 0.1.3 ~~ 'feldspar'
 
 * added FELDSPAR (which is a primary constituent of most ROCK but also a mineral unto itself (like quartz or mica, etc))
