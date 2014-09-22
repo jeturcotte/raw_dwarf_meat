@@ -14,6 +14,12 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.6 ~~ 'the first amphibian'
+
+* added 'true frog' (Ranidae) generic construct
+  * added the WOOD frog as the first speciation of this construct, along with concurrent graphics
+  * the process of this creation is detailed in a youtube tutorial here: https://www.youtube.com/watch?v=vyAuIfajzFg
+
 ## version 0.1.5 ~~ 'up with 2014!'
 
 * fixed entity_default.txt to be compatible with DF2014
