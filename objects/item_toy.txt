@@ -1,0 +1,174 @@
+item_toy
+
+[OBJECT:ITEM]
+
+toy tools, equipment, game, constructive, peaceful
+
+[ITEM_TOY:ITEM_TOY_PUZZLEBOX]
+[NAME:puzzlebox:puzzleboxes]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINIFORGE]
+[NAME:mini-forge:mini-forges]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BLOCKS]
+[NAME:block:blocks]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_DICE]
+[NAME:dice:dice]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TEA_SET]
+[NAME:tea set:tea sets]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BOAT]
+[NAME:toy boat:toy boats]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_WAGON]
+[NAME:toy wagon:toy wagons]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINECART]
+[NAME:toy minecart:toy minecarts]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_JACKS]
+[NAME:jacks:jacks]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_PICKAXE]
+[NAME:pickaxe:pickaxes]
+[HARD_MAT]
+
+carvings of worldly things and creatures
+
+[ITEM_TOY:ITEM_TOY_HALLA_CARVING]
+[NAME:halla carving:halla carvings]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HALLA_DOLL]
+[NAME:halla doll:halla dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BEAST_DOLL]
+[NAME:forgotten beast doll:forgotten beast dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TITAN_DOLL]
+[NAME:titan doll:titan dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_DRAGON_DOLL]
+[NAME:dragon doll:dragon dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HYDRA_DOLL]
+[NAME:hydra doll:hydra dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MINOTAUR_DOLL]
+[NAME:minotaur doll:minotaur dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ROC_DOLL]
+[NAME:roc doll:roc dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TROLL_DOLL]
+[NAME:troll doll:troll dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CYCLOPS_DOLL]
+[NAME:cyclops doll:cyclops dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ETTIN_DOLL]
+[NAME:ettin doll:ettin dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_WEREBEAST_DOLL]
+[NAME:werebeast doll:werebeast dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BEASTMAN_DOLL]
+[NAME:beastman doll:beastman dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_DWARF_DOLL]
+[NAME:dwarf doll:dwarf dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HUMAN_DOLL]
+[NAME:human doll:human dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ELF_DOLL]
+[NAME:elf doll:elf dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_GOBLIN_DOLL]
+[NAME:goblin doll:goblin dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_KOBOLD_DOLL]
+[NAME:kobold doll:kobold dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_GNOME_DOLL]
+[NAME:gnome doll:gnome dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_DEMON_DOLL]
+[NAME:demon doll:demon dolls]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ANIMAL_DOLL]
+[NAME:animal doll:animal dolls]
+[HARD_MAT]
+
+destructive, warfare, weapons, combat
+
+[ITEM_TOY:ITEM_TOY_BOW]
+[NAME:toy bow:toy bows]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CROSSBOW]
+[NAME:toy crossbow:toy crossbows]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_AXE]
+[NAME:toy axe:toy axes]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HAMMER]
+[NAME:toy hammer:toy hammers]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SWORD]
+[NAME:toy sword:toy swords]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_TREBUCHET]
+[NAME:toy trebuchet:toy trebuchets]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CATAPAULT]
+[NAME:toy catapault:toy catapaults]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SPEAR]
+[NAME:toy spear:toy spears]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SHIELD]
+[NAME:toy shield:toy shields]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_BLOWGUN]
+[NAME:toy blowgun:toy blowguns]
+[HARD_MAT]
+

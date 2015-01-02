@@ -1,0 +1,196 @@
+creature_amphibian_frog_wood
+
+Ranidae
+Lithobates sylvaticus
+
+[OBJECT:CREATURE]
+
+[CREATURE:AMPHIBIAN_FROG_WOOD]
+
+	-- common verbal descriptions
+	[DESCRIPTION:A small angular frog often found further from water than is typical, with rich brown skin aside from a dark brown streak of a mask just behind its large dark eyes.]
+	[NAME:wood frog:wood frogs:wood froggish]
+	[CASTE_NAME:wood frog:wood frogs:wood froggish]
+	[GENERAL_CHILD_NAME:wood frog pollywog:wood frog pollywogs]
+	[PREFSTRING:distinct face mask pattern]
+	[PREFSTRING:long legs]
+	[PREFSTRING:webbed toes]
+	[PREFSTRING:loud calls]
+	[PREFSTRING:quick reflexes]
+
+	-- common population characteristics
+	[POPULATION_NUMBER:5:10][CLUSTER_NUMBER:1:2][FREQUENCY:35]
+	[BIOME:POOL_TEMPERATE_FRESHWATER]
+	[BIOME:ANY_TEMPERATE_WETLAND]
+	[BIOME:ANY_TEMPERATE_FOREST]
+	
+	-- common biological characteristics
+	[CHILD:1][MAXAGE:4:15]
+	[CREATURE_TILE:'w'][COLOR:6:0:0]
+	[DIURNAL][NO_WINTER][AMPHIBIOUS][SWIMS_INNATE]
+	[VISION_ARC:50:310]
+	
+	-- common behavioral characteristics
+	[BENIGN][MUNDANE][NATURAL]
+	[MEANDERER][STANDARD_GRAZER][LARGE_ROAMING][GRASSTRAMPLE:2]
+	
+	-- common uses by civilizations
+	[PETVALUE:10][VERMIN_HATEABLE]
+	
+	-- common body plan
+	[BODY:QUADRUPED_NECK:2EYES:NOSE:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:MOUTH:TONGUE:RIBCAGE]
+	
+	-- caste specific body plans
+	[CASTE:MALE]
+		[MALE]
+	[CASTE:FEMALE]
+		[FEMALE]
+	
+	-- common body plan
+	[SELECT_CASTE:ALL]
+		[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
+			[REMOVE_MATERIAL:HAIR]
+		[BODY_DETAIL_PLAN:STANDARD_TISSUES]
+			[REMOVE_TISSUE:HAIR]
+		[BODY_DETAIL_PLAN:VERTEBRATE_TISSUE_LAYERS:SKIN:FAT:MUSCLE:BONE:CARTILAGE]
+		[SELECT_TISSUE_LAYER:HEART:BY_CATEGORY:HEART]
+			[PLUS_TISSUE_LAYER:SKIN:BY_CATEGORY:THROAT]
+				[TL_MAJOR_ARTERIES]
+		[BODY_DETAIL_PLAN:STANDARD_HEAD_POSITIONS]
+		[BODY_DETAIL_PLAN:HUMANOID_RIBCAGE_POSITIONS]
+		[USE_MATERIAL_TEMPLATE:SINEW:SINEW_TEMPLATE]
+		[TENDONS:LOCAL_CREATURE_MAT:SINEW:200]
+		[LIGAMENTS:LOCAL_CREATURE_MAT:SINEW:200]
+		[HAS_NERVES]
+		[USE_MATERIAL_TEMPLATE:BLOOD:BLOOD_TEMPLATE]
+		[BLOOD:LOCAL_CREATURE_MAT:BLOOD:LIQUID]
+		[CREATURE_CLASS:GENERAL_POISON]
+		[GETS_WOUND_INFECTIONS]
+		[GETS_INFECTIONS_FROM_ROT]
+		[USE_MATERIAL_TEMPLATE:PUS:PUS_TEMPLATE]
+		[PUS:LOCAL_CREATURE_MAT:PUS:LIQUID]
+
+		-- common physical variations
+		[BODY_APPEARANCE_MODIFIER:LENGTH:90:95:98:100:102:105:110]
+		[BODY_APPEARANCE_MODIFIER:HEIGHT:90:95:98:100:102:105:110]
+		[BODY_APPEARANCE_MODIFIER:BROADNESS:90:95:98:100:102:105:110]
+		[APPLY_CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
+		[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
+		[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
+
+		-- common attacks
+		[ATTACK:BITE:BODYPART:BY_CATEGORY:MOUTH]
+			[ATTACK_SKILL:BITE]
+			[ATTACK_VERB:bite:bites]
+			[ATTACK_CONTACT_PERC:100]
+			[ATTACK_PREPARE_AND_RECOVER:3:3]
+			[ATTACK_PRIORITY:MAIN]
+			[ATTACK_FLAG_CANLATCH]
+		
+		-- common descriptions
+		[SET_TL_GROUP:BY_CATEGORY:BODY_UPPER:SKIN]
+			[TL_COLOR_MODIFIER:TAN:2:OCHRE:2:GOLDENROD:1:AMBER:1:ECRU:3:GOLD:1:PALE_BROWN:1:TAUPE_PALE:1:LIGHT_BROWN:1]
+				[TLCM_NOUN:back:SINGULAR]
+		[SET_TL_GROUP:BY_CATEGORY:BODY_LOWER:SKIN]
+			[TL_COLOR_MODIFIER:DARK_PEACH:1:PALE_BROWN:1:TAN:1:PEACH:1:TAUPE_SANDY:1:GOLDENROD:1:AMBER:1:SAFFRON:1:GOLD:1:ECRU:1:PEARL:1:CREAM:1:FLAX:1]
+				[TLCM_NOUN:belly:SINGULAR]
+		[SET_TL_GROUP:BY_CATEGORY:HEAD:SKIN]
+			[TL_COLOR_MODIFIER:TAUPE_DARK:1:DARK_BROWN:1]
+				[TLCM_NOUN:face mask:SINGULAR]
+		[SET_TL_GROUP:BY_CATEGORY:EYE:EYE]
+			[TL_COLOR_MODIFIER:BLACK:3:TAUPE_DARK:1:DARK_BROWN:1]
+				[TLCM_NOUN:eyes:PLURAL]
+		[SET_TL_GROUP:BY_CATEGORY:ALL:SKIN]
+			[TL_COLOR_MODIFIER:TAN:2:OCHRE:2:GOLDENROD:1:AMBER:1:ECRU:3:GOLD:1:PALE_BROWN:1:TAUPE_PALE:1:LIGHT_BROWN:1:FLAX:1:CREAM:1]
+				[TLCM_NOUN:long legs and toes:PLURAL]	
+
+	-- caste specific details
+	[SELECT_CASTE:FEMALE]
+		[BODY_SIZE:0:0:2]
+		[BODY_SIZE:0:45:10] 0.3 oz
+	
+	-- caste specific variations	
+	[SELECT_CASTE:MALE]
+		[BODY_SIZE:0:0:2]
+		[BODY_SIZE:0:45:8] 0.3 oz
+
+
+
+[CREATURE:AMPHIBIAN_FROG_DREAD_WOOD]
+
+	[COPY_TAGS_FROM:AMPHIBIAN_FROG_WOOD]
+	[APPLY_CREATURE_VARIATION:PREPARE_FOR_STRANGENESS]
+	[GO_TO_START]
+
+	-- common verbal descriptions
+	[DESCRIPTION:A small angular frog often found further from water than is typical, with rich brown skin aside from a dark brown streak of a mask just behind its large dark eyes. Something is strange, however, as it is overly large, tinged red, and stares you down with a crazed and red-eyed challenging stare.]
+	[NAME:dread wood frog:dread wood frogs:dread wood frog]
+	[CASTE_NAME:dread wood frog:dread wood frogs:dread wood frog]
+	[GENERAL_CHILD_NAME:dread wood frog pollywog:dread wood frog pollywogs]
+			
+	-- common population characteristics
+	[POPULATION_NUMBER:2:4][CLUSTER_NUMBER:1:2][FREQUENCY:35]
+	
+	-- common biological characteristics
+	[CHILD:1][MAXAGE:2:10]
+	[CREATURE_TILE:'w']
+	
+	-- common uses by civilizations
+	[PETVALUE:50]
+	
+	[GO_TO_END]
+	[APPLY_CREATURE_VARIATION:DREAD]
+
+
+
+[CREATURE:AMPHIBIAN_FROG_HOLY_WOOD]
+
+	[COPY_TAGS_FROM:AMPHIBIAN_FROG_WOOD]
+	[APPLY_CREATURE_VARIATION:PREPARE_FOR_STRANGENESS]
+	[GO_TO_START]
+
+	-- common verbal descriptions
+	[DESCRIPTION:A small angular frog often found further from water than is typical, with rich brown skin aside from a dark brown streak of a mask just behind its large dark eyes. Something is strange, however, as it smaller than usual, appears to glow faintly blue, and gives you a strong feeling of peace.]
+	[NAME:holy wood frog:holy wood frogs:holy wood frog]
+	[CASTE_NAME:holy wood frog:holy wood frogs:holy wood frog]
+	[GENERAL_CHILD_NAME:holy wood frog pollywog:holy wood frog pollywogs]
+			
+	-- common population characteristics
+	[POPULATION_NUMBER:2:3][CLUSTER_NUMBER:1:1][FREQUENCY:35]
+	
+	-- common biological characteristics
+	[CHILD:5][MAXAGE:10:20]
+	[CREATURE_TILE:'w']
+	
+	-- common uses by civilizations
+	[PETVALUE:100]
+	
+	[GO_TO_END]
+	[APPLY_CREATURE_VARIATION:HOLY]
+	
+
+
+[CREATURE:AMPHIBIAN_FROG_GIANT_WOOD]
+
+	[COPY_TAGS_FROM:AMPHIBIAN_FROG_WOOD]
+	[APPLY_CREATURE_VARIATION:PREPARE_FOR_STRANGENESS]
+	[GO_TO_START]
+
+	-- common verbal descriptions
+	[DESCRIPTION:An angular frog often found further from water than is typical, with rich brown skin aside from a dark brown streak of a mask just behind its large dark eyes. Something is strange, however, as it is absolutely enormous and regards you with a challenging stare.]
+	[NAME:giant wood frog:giant wood frogs:giant wood frog]
+	[CASTE_NAME:giant wood frog:giant wood frogs:giant wood frog]
+	[GENERAL_CHILD_NAME:giant wood frog pollywog:giant wood frog pollywogs]
+			
+	-- common population characteristics
+	[POPULATION_NUMBER:2:3][CLUSTER_NUMBER:1:1][FREQUENCY:35]
+	
+	-- common biological characteristics
+	[CHILD:3][MAXAGE:15:25]
+	[CREATURE_TILE:'W']
+	
+	-- common uses by civilizations
+	[PETVALUE:250]
+	
+	[GO_TO_END]
+	[APPLY_CREATURE_VARIATION:GIGANTIC]
