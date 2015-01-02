@@ -14,6 +14,16 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.7 ~~ 'of sweeping changes and deer'
+
+* added a lot of toys as well as some made by Kafine
+* added new pants by Kafine
+* added halla, white-tailed, and moose with standard, dread, holy, and giant versions
+* fixed up creature variations AND style of creature development for easier moving forward
+* retired the idea of titanic creatures
+* fixed a slew of small bugs in creature coloration
+* fixed application of jasper minerals to sedimentary layers
+
 ## version 0.1.6 ~~ 'the first amphibian'
 
 * added 'true frog' (Ranidae) generic construct
