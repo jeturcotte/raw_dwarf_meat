@@ -41,7 +41,7 @@ toy tools, equipment, game, constructive, peaceful
 [HARD_MAT]
 
 [ITEM_TOY:ITEM_TOY_PICKAXE]
-[NAME:pickaxe:pickaxes]
+[NAME:toy pickaxe:toy pickaxes]
 [HARD_MAT]
 
 carvings of worldly things and creatures
