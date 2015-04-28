@@ -2207,3 +2207,10 @@ language_GOBLIN
 	[T_WORD:ORTHOCLASE:stokotaxt]
 	[T_WORD:WILDERNESS:muslot]
 	[T_WORD:WILDS:muslo]
+    [T_WORD:FORGE:toxa]
+    [T_WORD:CRAG:tarax]
+    [T_WORD:CONTRACT_LEGAL:kokut]
+    [T_WORD:CONTRACT_PHSYICAL:dazak]
+    [T_WORD:EXPAND:puzak]
+    [T_WORD:BUTTE:xitsh]
+    

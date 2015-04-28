@@ -2207,3 +2207,10 @@ language_DWARF
 	[T_WORD:ORTHOCLASE:inarz]
 	[T_WORD:WILDERNESS:ulryst]
 	[T_WORD:WILDS:rysti]
+    [T_WORD:FORGE:kuti]
+    [T_WORD:CRAG:chul]
+    [T_WORD:CONTRACT_LEGAL:sidi]
+    [T_WORD:CONTRACT_PHSYICAL:zhol]
+    [T_WORD:EXPAND:zhuil]
+    [T_WORD:BUTTE:tetak]
+    

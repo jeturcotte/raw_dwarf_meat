@@ -2207,4 +2207,10 @@ language_HUMAN
 	[T_WORD:ORTHOCLASE:sutspara]
 	[T_WORD:WILDERNESS:koziat]
 	[T_WORD:WILDS:kozit]
+    [T_WORD:FORGE:zuya]
+    [T_WORD:CRAG:plaj]
+    [T_WORD:CONTRACT_LEGAL:piar]
+    [T_WORD:CONTRACT_PHSYICAL:chua]
+    [T_WORD:EXPAND:itua]
+    [T_WORD:BUTTE:coyad]
 	
