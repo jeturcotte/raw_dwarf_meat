@@ -14,6 +14,15 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.8 ~~ 'further vocabulary'
+
+* on a whim, decided to add to the language files:
+  * Buttes (the flat topped hills)
+  * Contracts (legal AND physical)
+  * Expansions (physical)
+  * Crags
+  * Forges
+
 ## version 0.1.7 ~~ 'of sweeping changes and deer'
 
 * added a lot of toys as well as some made by Kafine
