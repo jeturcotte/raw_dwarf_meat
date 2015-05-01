@@ -14,6 +14,18 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.9 ~~ 'further vocabulary II'
+
+* on a whim, decided to add to the language files (because reasons):
+  * PROXIMITY
+  * APPROXIMATE
+  * LEGAL
+  * ILLEGAL
+  * CRIME
+  * CRIMINAL
+  * COURT
+  * COURTSHIP
+
 ## version 0.1.8 ~~ 'further vocabulary'
 
 * on a whim, decided to add to the language files:
