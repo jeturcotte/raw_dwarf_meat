@@ -2213,4 +2213,11 @@ language_HUMAN
     [T_WORD:CONTRACT_PHSYICAL:chua]
     [T_WORD:EXPAND:itua]
     [T_WORD:BUTTE:coyad]
-	
+    [T_WORD:PROXIMITY:yipt]
+    [T_WORD:APPROXIMATE:yash]
+    [T_WORD:LEGAL:inyo]
+    [T_WORD:ILLEGAL:enyo]
+    [T_WORD:CRIME:sunt]
+    [T_WORD:CRIMINAL:sunth]
+    [T_WORD:COURT:tarap]
+    [T_WORD:COURTSHIP:sijli]

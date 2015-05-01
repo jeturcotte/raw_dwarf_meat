@@ -2213,4 +2213,12 @@ language_DWARF
     [T_WORD:CONTRACT_PHSYICAL:zhol]
     [T_WORD:EXPAND:zhuil]
     [T_WORD:BUTTE:tetak]
+    [T_WORD:PROXIMITY:ogat]
+    [T_WORD:APPROXIMATE:goyat]
+    [T_WORD:LEGAL:danjo]
+    [T_WORD:ILLEGAL:idanjo]
+    [T_WORD:CRIME:danan]
+    [T_WORD:CRIMINAL:danin]
+    [T_WORD:COURT:shor]
+    [T_WORD:COURTSHIP:kitik]
     

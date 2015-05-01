@@ -2213,5 +2213,12 @@ language_ELF
     [T_WORD:CONTRACT_PHSYICAL:whai]
     [T_WORD:EXPAND:ulai]
     [T_WORD:BUTTE:aylan]
-    
+    [T_WORD:PROXIMITY:twai]
+    [T_WORD:APPROXIMATE:twooli]
+    [T_WORD:LEGAL:salai]
+    [T_WORD:ILLEGAL:tsalai]
+    [T_WORD:CRIME:oweel]
+    [T_WORD:CRIMINAL:weel]
+    [T_WORD:COURT:thao]
+    [T_WORD:COURTSHIP:nimme]   
 	

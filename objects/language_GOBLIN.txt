@@ -2213,4 +2213,11 @@ language_GOBLIN
     [T_WORD:CONTRACT_PHSYICAL:dazak]
     [T_WORD:EXPAND:puzak]
     [T_WORD:BUTTE:xitsh]
-    
+    [T_WORD:PROXIMITY:zwakl]
+    [T_WORD:APPROXIMATE:zwachl]
+    [T_WORD:LEGAL:kurg]
+    [T_WORD:ILLEGAL:tukurg]
+    [T_WORD:CRIME:kzal]
+    [T_WORD:CRIMINAL:kzalk]
+    [T_WORD:COURT:skol]
+    [T_WORD:COURTSHIP:axit]    
