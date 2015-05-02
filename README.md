@@ -14,6 +14,13 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.10 ~~ 'better vocabulary I'
+
+* um... so... yeah
+  * I went through the ENTIRE language file and fixed things ups
+  * It's not complete, but it is MORE complete than the originals
+  * There may be some err
+
 ## version 0.1.9 ~~ 'further vocabulary II'
 
 * on a whim, decided to add to the language files (because reasons):
@@ -26,7 +33,7 @@ just some stupid public repo of modified raw files for dwarf fortress
   * COURT
   * COURTSHIP
 
-## version 0.1.8 ~~ 'further vocabulary'
+## version 0.1.8 ~~ 'further vocabulary I'
 
 * on a whim, decided to add to the language files:
   * Buttes (the flat topped hills)
