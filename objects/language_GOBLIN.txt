@@ -2227,7 +2227,7 @@ language_GOBLIN
     [T_WORD:CRYPTIC:spak]
     [T_WORD:FRUITFUL:utmakl]
     [T_WORD:UNJUST:adka]
-    [T_WIRD:INJUSTICE:adkal]
+    [T_WORD:INJUSTICE:adkal]
     [T_WORD:MISER:uxok]
     [T_WORD:SMELT:dluzo]
     [T_WORD:NOBILITY:dostl]
