@@ -14,6 +14,21 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.11 ~~ 'further vocabulary III'
+
+* on a whim, decided to add to the language files (because reasons):
+  * COLONY
+  * NEAR & FAR
+  * CRYPTIC
+  * FRUITFUL (translations take a cue from FRUIT)
+  * UNJUST & INJUSTICE (with cues from JUST)
+  * MISER
+  * SMELT (translation take a cue from MELT)
+  * NOBILITY (translations take a cue from NOBLE)
+  * SINGULAR (takes a cue from SINGLE)
+  * RAPT & RAPTURE
+  * SCENE
+  
 ## version 0.1.10 ~~ 'better vocabulary I'
 
 * um... so... yeah
