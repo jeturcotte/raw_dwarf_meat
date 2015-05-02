@@ -2175,7 +2175,7 @@ language_GOBLIN
 	[T_WORD:MARK:stam]
 	[T_WORD:HEAVY:seg]
 	[T_WORD:TRIAL:mox]
-	[T_WORD:PRACTICE:nosbu]
+	[T_WORD:PRACTICE:nosbu]T_WORD
 	[T_WORD:LAVA:chol]
 	[T_WORD:MAGMA:chal]
 	[T_WORD:ISLE:bungta]

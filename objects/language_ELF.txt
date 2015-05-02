@@ -2227,7 +2227,7 @@ language_ELF
     [T_WORD:CRYPTIC:misso]
     [T_WORD:FRUITFUL:ilessa]
     [T_WORD:UNJUST:leoa]
-    [T_WIRD:INJUSTICE:leossa]
+    [T_WORD:INJUSTICE:leossa]
     [T_WORD:MISER:mamicoa]
     [T_WORD:SMELT:canye]
     [T_WORD:NOBILITY:ramula]

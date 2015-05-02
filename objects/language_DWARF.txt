@@ -2227,7 +2227,7 @@ language_DWARF
     [T_WORD:CRYPTIC:shivak]
     [T_WORD:FRUITFUL:dozoeb]
     [T_WORD:UNJUST:iketh]
-    [T_WIRD:INJUSTICE:ayiketh]
+    [T_WORD:INJUSTICE:ayiketh]
     [T_WORD:MISER:ugeth]
     [T_WORD:SMELT:kilal]
     [T_WORD:NOBILITY:rothel]

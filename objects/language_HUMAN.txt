@@ -2227,7 +2227,7 @@ language_HUMAN
     [T_WORD:CRYPTIC:licti]
     [T_WORD:FRUITFUL:parsh]
     [T_WORD:UNJUST:tikru]
-    [T_WIRD:INJUSTICE:tikrush]
+    [T_WORD:INJUSTICE:tikrush]
     [T_WORD:MISER:feng]
     [T_WORD:SMELT:maykat]
     [T_WORD:NOBILITY:halth]
