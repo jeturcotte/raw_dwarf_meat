@@ -2210,7 +2210,7 @@ language_GOBLIN
     [T_WORD:FORGE:toxa]
     [T_WORD:CRAG:tarax]
     [T_WORD:CONTRACT_LEGAL:kokut]
-    [T_WORD:CONTRACT_PHSYICAL:dazak]
+    [T_WORD:CONTRACT_PHYSICAL:dazak]
     [T_WORD:EXPAND:puzak]
     [T_WORD:BUTTE:xitsh]
     [T_WORD:PROXIMITY:zwakl]

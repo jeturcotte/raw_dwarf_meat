@@ -2210,7 +2210,7 @@ language_ELF
     [T_WORD:FORGE:ollai]
     [T_WORD:CRAG:tyuna]
     [T_WORD:CONTRACT_LEGAL:siam]
-    [T_WORD:CONTRACT_PHSYICAL:whai]
+    [T_WORD:CONTRACT_PHYSICAL:whai]
     [T_WORD:EXPAND:ulai]
     [T_WORD:BUTTE:aylan]
     [T_WORD:PROXIMITY:twai]

@@ -2210,7 +2210,7 @@ language_HUMAN
     [T_WORD:FORGE:zuya]
     [T_WORD:CRAG:plaj]
     [T_WORD:CONTRACT_LEGAL:piar]
-    [T_WORD:CONTRACT_PHSYICAL:chua]
+    [T_WORD:CONTRACT_PHYSICAL:chua]
     [T_WORD:EXPAND:itua]
     [T_WORD:BUTTE:coyad]
     [T_WORD:PROXIMITY:yipt]
