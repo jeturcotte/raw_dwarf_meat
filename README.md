@@ -14,6 +14,15 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.12 ~~ 'further vocabulary IV'
+
+* on a whim, decided to add to the language files (because reasons):
+  * REPTILE 
+  * TURTLE (snake, serpent, lizard already present)
+  * AMPHIBIAN
+  * OLM (toad, frog already present)
+  * SALAMANDER
+
 ## version 0.1.11 ~~ 'further vocabulary III'
 
 * on a whim, decided to add to the language files (because reasons):

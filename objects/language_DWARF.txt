@@ -2235,4 +2235,8 @@ language_DWARF
     [T_WORD:RAPTURE:bizil]
     [T_WORD:RAPT:bizal]
     [T_WORD:SCENE:loik]
-    
+    [T_WORD:REPTILE:taj]
+    [T_WORD:TURTLE:djo]
+    [T_WORD:AMPHIBIAN:triaj]
+    [T_WORD:SALAMANDER:sasa]
+    [T_WORD:OLM:sasaw]

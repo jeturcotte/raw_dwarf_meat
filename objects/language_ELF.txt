@@ -2235,4 +2235,8 @@ language_ELF
     [T_WORD:RAPTURE:sishe]
     [T_WORD:RAPT:sisea]
     [T_WORD:SCENE:isoa]
-	
+    [T_WORD:REPTILE:elloa]
+    [T_WORD:TURTLE:zoya]
+    [T_WORD:AMPHIBIAN:elmia]
+    [T_WORD:SALAMANDER:wan]
+    [T_WORD:OLM:elwan]

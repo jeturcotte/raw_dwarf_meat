@@ -2235,4 +2235,8 @@ language_HUMAN
     [T_WORD:RAPTURE:steith]
     [T_WORD:RAPT:stei]
     [T_WORD:SCENE:koya]
-    
+    [T_WORD:REPTILE:patak]
+    [T_WORD:TURTLE:yuel]
+    [T_WORD:AMPHIBIAN:kytak]
+    [T_WORD:SALAMANDER:lis]
+    [T_WORD:OLM:lisis]

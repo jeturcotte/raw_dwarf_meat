@@ -2235,3 +2235,8 @@ language_GOBLIN
     [T_WORD:RAPTURE:keegl]
     [T_WORD:RAPT:keeg]
     [T_WORD:SCENE:poxt]
+    [T_WORD:REPTILE:mizuk]
+    [T_WORD:TURTLE:taxe]
+    [T_WORD:AMPHIBIAN:ssuku]
+    [T_WORD:SALAMANDER:chot]
+    [T_WORD:OLM:choth]
