@@ -21904,7 +21904,7 @@ language_words
 		[THE_COMPOUND_ADJ]
 
 [WORD:SALAMANDER]
-	[NOUNs:salamander:salamanders]
+	[NOUN:salamander:salamanders]
 		[FRONT_COMPOUND_NOUN_SING]
 		[REAR_COMPOUND_NOUN_SING]
 		[THE_COMPOUND_NOUN_SING]
