@@ -14,6 +14,45 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.13 ~~ 'further vocabulary V'
+
+* on a whim, decided to add to the language files (dont tell me what to do!):
+  * Adding adjective 'ruinous' to the verb RUIN_V
+  * Fixed PLANET's adjective to be planetary (as opposed to plantary)
+  * CIVIL (adj)
+  * CIVILIZATION (n,a,v)
+  * COBBLE (n,a,v)
+  * COBBLER (n)
+  * COBBLESTONE (n)
+  * Added adjective for TEAR (as in, eyes)
+  * TORN (n(tear),a,v)
+  * WEAVE (n,a,v)
+  * Added 'confederate' as adjective to CONFEDERACY and moved verb away from that to CONFEDERATION instead
+  * FEDERATION (federal)
+  * SIMPLISTIC (adj)
+  * HEGEMONY (separate from HEMEGON) (n,a)
+  * UNIT (n,a)
+  * FASTING (as in, to fast)
+  * FAST (slow already available)
+  * VITREOUS (adj, glassy texture)
+  * VITRIOL (n,adj, bitter/cruel)
+  * HONE (adj,v, to improve)
+  * SHARP (adj)
+  * SHARPEN (adj,v)
+  * INDIGNITY (n,a)
+  * REVOLT (n,v) (combat) not to be confused with REVOLTING (re: disgust)
+  * INSULATE (a,v) including insular
+  * PHANTASM (n,a); also added adjective to PHANTOM
+  * CONTEMPTUOUS (a) as an alternative to CONTEMPT(ible)
+  * ORGANISM (n,a) not to be confused with ORGAN
+  * Adjusted MORTAL and IMMORTAL to be more useful, including verbage for the latter
+  * FATEFUL (a) added as alternative to FATE(d)
+  * GLASS (n,a)
+  * Added [THE_COMPOUND_ADJ] to all the adjectives related to stony descriptions (granite, etc) and added OBSIDIAN
+  * LODGE_ACTION (a,v) to lodge something in something
+  * LODGE_PLACE (n,v) a lodge or to lodge for the night somewhere
+  * Tinkered a fair bit with the language files in and aroudn terms for nations; confederacy through hegemony, so they had, in most languages, similarities to one another
+
 ## version 0.1.12 ~~ 'further vocabulary IV'
 
 * on a whim, decided to add to the language files (because reasons):
