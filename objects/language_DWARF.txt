@@ -2232,7 +2232,7 @@ language_DWARF
     [T_WORD:SMELT:kilal]
     [T_WORD:NOBILITY:rothel]
     [T_WORD:SINGULAR:eliak]
-    [T_WORD:RAPTURE:bizil]ALO
+    [T_WORD:RAPTURE:bizil]
     [T_WORD:RAPT:bizal]
     [T_WORD:SCENE:loik]
     [T_WORD:REPTILE:taj]
