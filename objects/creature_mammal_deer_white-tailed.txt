@@ -40,6 +40,7 @@ Carvidae, common the temperate world over
 	[CASTE:MALE]
 		[MALE]
 		[BODY:2HEAD_ANTLER]
+		[SET_BP_GROUP:BY_TYPE:LOWERBODY][BP_ADD_TYPE:GELDABLE]
 	[CASTE:FEMALE]
 		[FEMALE]
 	
@@ -168,7 +169,6 @@ Carvidae, common the temperate world over
 		[BODY_SIZE:0:0:14000]
 		[BODY_SIZE:1:0:60000]
 		[BODY_SIZE:2:0:140000]
-
 
 
 [CREATURE:MAMMAL_DEER_DREAD_WHITE-TAILED]

@@ -39,6 +39,7 @@ Carvidae, inspired by dragon age
 	[CASTE:MALE]
 		[MALE]
 		[BODY:2HEAD_ANTLER]
+		[SET_BP_GROUP:BY_TYPE:LOWERBODY][BP_ADD_TYPE:GELDABLE]
 	[CASTE:FEMALE]
 		[FEMALE]
 	

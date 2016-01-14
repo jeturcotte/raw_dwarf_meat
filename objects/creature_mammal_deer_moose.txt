@@ -39,6 +39,7 @@ Carvidae, inspired by dragon age
 	[CASTE:MALE]
 		[MALE]
 		[BODY:2HEAD_ANTLER]
+		[SET_BP_GROUP:BY_TYPE:LOWERBODY][BP_ADD_TYPE:GELDABLE]
 	[CASTE:FEMALE]
 		[FEMALE]
 	
@@ -167,8 +168,6 @@ Carvidae, inspired by dragon age
 		[BODY_SIZE:0:0:20000]
 		[BODY_SIZE:1:0:180000]
 		[BODY_SIZE:2:0:400000]
-
-
 
 [CREATURE:MAMMAL_DEER_DREAD_MOOSE]
 

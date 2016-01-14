@@ -10,6 +10,8 @@ item_weapon
 [MINIMUM_SIZE:22500]
 [MATERIAL_SIZE:1]
 [ATTACK:BLUNT:1:10:lash:lashes:NO_SUB:5000]
+	[ATTACK_PREPARE_AND_RECOVER:4:4]
+	[ATTACK_FLAG_BAD_MULTIATTACK]
 
 [ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE]
 [NAME:battle axe:battle axes]
@@ -23,8 +25,11 @@ The format is ATTACK:EDGE/BLUNT:contact area:penetration size:verb2nd:verb3rd:no
 Penetration size currently only matters for edged attacks.
 
 [ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:40000:6000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR]
 [NAME:war hammer:war hammers]
@@ -34,6 +39,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:32500]
 [MATERIAL_SIZE:3]
 [ATTACK:BLUNT:10:200:bash:bashes:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT]
 [NAME:short sword:short swords]
@@ -44,9 +50,13 @@ Penetration size currently only matters for edged attacks.
 [CAN_STONE]
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20000:4000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR]
 [NAME:spear:spears]
@@ -56,7 +66,9 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:5000] amphibian men, etc., need variants
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:10000:6000:bash:bashes:shaft:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MACE]
 [NAME:mace:maces]
@@ -66,6 +78,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:32500]
 [MATERIAL_SIZE:3]
 [ATTACK:BLUNT:20:200:bash:bashes:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_CROSSBOW]
 [NAME:crossbow:crossbows]
@@ -73,11 +86,12 @@ Penetration size currently only matters for edged attacks.
 [SKILL:HAMMER]
 [RANGED:CROSSBOW:BOLT]
 [SHOOT_FORCE:1000]
-[SHOOT_MAXVEL:1000]  This is just to make sure a near-weightless object doesn't go faster than the string could possibly go.
+[SHOOT_MAXVEL:200]  This is just to make sure a near-weightless object doesn't go faster than the string could possibly go.
 [TWO_HANDED:0]
 [MINIMUM_SIZE:15000]
 [MATERIAL_SIZE:3]
 [ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_PICK]
 [NAME:pick:picks]
@@ -87,6 +101,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:42500]
 [MATERIAL_SIZE:4]
 [ATTACK:EDGE:100:4000:strike:strikes:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_BOW]
 [NAME:bow:bows]
@@ -99,6 +114,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:15000]
 [MATERIAL_SIZE:3]
 [ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_BLOWGUN]
 [NAME:blowgun:blowguns]
@@ -111,6 +127,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:5000]
 [MATERIAL_SIZE:2]
 [ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_PIKE]
 [NAME:pike:pikes]
@@ -120,7 +137,9 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:62500]
 [MATERIAL_SIZE:4]
 [ATTACK:EDGE:20:12000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:10000:6000:bash:bashes:shaft:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_HALBERD]
 [NAME:halberd:halberds]
@@ -130,8 +149,11 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:62500]
 [MATERIAL_SIZE:5]
 [ATTACK:EDGE:20000:8000:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20000:6000:bash:bashes:shaft:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_2H]
 [NAME:two-handed sword:two-handed swords]
@@ -141,9 +163,13 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:62500]
 [MATERIAL_SIZE:5]
 [ATTACK:EDGE:100000:8000:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:50:4000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100000:8000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG]
 [NAME:long sword:long swords]
@@ -153,9 +179,13 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:52500]
 [MATERIAL_SIZE:4]
 [ATTACK:EDGE:60000:6000:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:50:3000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:60000:6000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_BROAD]
 [NAME:broad sword:broad swords]
@@ -165,9 +195,13 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:55500]
 [MATERIAL_SIZE:4]
 [ATTACK:EDGE:65000:6500:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3
 [ATTACK:EDGE:55:3100:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:70000:7000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:120:1200:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MAUL]
 [NAME:maul:mauls]
@@ -177,6 +211,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:62500]
 [MATERIAL_SIZE:5]
 [ATTACK:BLUNT:100:6000:bash:bashes:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT]
 [NAME:great axe:great axes]
@@ -186,8 +221,11 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:62500]
 [MATERIAL_SIZE:5]
 [ATTACK:EDGE:60000:8000:hack:hacks:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:60000:8000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE]
 [NAME:dagger:daggers]
@@ -198,8 +236,11 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:5000]
 [MATERIAL_SIZE:1]
 [ATTACK:EDGE:1000:800:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20:600:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_DIRK]
 [NAME:dirk:dirks]
@@ -210,8 +251,11 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:4000]
 [MATERIAL_SIZE:1]
 [ATTACK:EDGE:900:750:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:15:1200:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20:600:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_KRYSS]
 [NAME:kryss:krysses]
@@ -221,9 +265,11 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:5100]
 [MATERIAL_SIZE:1]
 [ATTACK:EDGE:1100:850:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:15:1200:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20:550:strike:strikes:pommel:1000]
-
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SCOURGE]
 [NAME:scourge:scourges]
@@ -233,6 +279,8 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:22500]
 [MATERIAL_SIZE:2]
 [ATTACK:EDGE:10:50:lash:lashes:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
+	[ATTACK_FLAG_BAD_MULTIATTACK]
 
 [ITEM_WEAPON:ITEM_WEAPON_FLAIL]
 [NAME:flail:flails]
@@ -242,6 +290,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:42500]
 [MATERIAL_SIZE:4]
 [ATTACK:BLUNT:200:4000:bash:bashes:NO_SUB:2500]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR]
 [NAME:morningstar:morningstars]
@@ -251,7 +300,9 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:32500]
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:10:500:bash:bashes:NO_SUB:2000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_SCIMITAR]
 [NAME:scimitar:scimitars]
@@ -261,9 +312,13 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:32500]
 [MATERIAL_SIZE:3]
 [ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20000:4000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:50:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 
 [ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING]
 [NAME:training axe:training axes]
@@ -273,8 +328,11 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:42500]
 [MATERIAL_SIZE:4]
 [ATTACK:BLUNT:30000:6000:hack:hacks:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:30000:6000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [TRAINING]
 
 [ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING]
@@ -285,9 +343,13 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:32500]
 [MATERIAL_SIZE:3]
 [ATTACK:BLUNT:20000:4000:slash:slashes:NO_SUB:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:50:2000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:20000:4000:slap:slaps:flat:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:100:1000:strike:strikes:pommel:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [TRAINING]
 
 [ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING]
@@ -298,5 +360,7 @@ Penetration size currently only matters for edged attacks.
 [MINIMUM_SIZE:42500]
 [MATERIAL_SIZE:3]
 [ATTACK:BLUNT:200:10000:stab:stabs:NO_SUB:1000]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [ATTACK:BLUNT:10000:6000:bash:bashes:shaft:1250]
+	[ATTACK_PREPARE_AND_RECOVER:3:3]
 [TRAINING]
