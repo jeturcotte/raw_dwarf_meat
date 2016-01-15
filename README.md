@@ -14,7 +14,7 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
-## version 0.1.15 ~~ 'a major merger I'
+## version 0.1.14 ~~ 'a major merger I'
 
 * So, yeah... version 42.04
 
