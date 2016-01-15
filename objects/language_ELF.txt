@@ -2212,7 +2212,6 @@ language_ELF
 	[T_WORD:PLATINUM:latya]
 	[T_WORD:SAPPHIRE:siafsa]
 	[T_WORD:RUBY:rulsa]
-	[T_WORD:FORGED_STAR:oleea]
 	[T_WORD:FALLEN_STAR:olaia]
 	[T_WORD:MALACHITE:ashu]
 	[T_WORD:AZURITE:ziar]

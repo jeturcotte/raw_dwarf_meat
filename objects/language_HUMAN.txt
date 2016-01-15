@@ -2212,7 +2212,6 @@ language_HUMAN
 	[T_WORD:PLATINUM:latyen]
 	[T_WORD:SAPPHIRE:fyrtae]
 	[T_WORD:RUBY:ryutae]
-	[T_WORD:FORGED_STAR:odayn]
 	[T_WORD:FALLEN_STAR:udayn]
 	[T_WORD:MALACHITE:makat]
 	[T_WORD:AZURITE:azkat]

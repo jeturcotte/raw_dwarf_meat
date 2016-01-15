@@ -2212,7 +2212,6 @@ language_DWARF
  	[T_WORD:PLATINUM:pliat]
  	[T_WORD:SAPPHIRE:safyr]
  	[T_WORD:RUBY:rayn]
- 	[T_WORD:FORGED_STAR:zayl]
  	[T_WORD:FALLEN_STAR:zahl]
  	[T_WORD:MALACHITE:malak]
  	[T_WORD:AZURITE:azyar]

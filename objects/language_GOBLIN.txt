@@ -2213,7 +2213,6 @@ language_GOBLIN
 	[T_WORD:PLATINUM:djotum]
 	[T_WORD:SAPPHIRE:gosaf]
 	[T_WORD:RUBY:gorul]
-	[T_WORD:FORGED_STAR:dguut]
 	[T_WORD:FALLEN_STAR:dgat]
 	[T_WORD:MALACHITE:mahzu]
 	[T_WORD:AZURITE:ahzu]
