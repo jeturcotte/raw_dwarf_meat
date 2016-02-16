@@ -14,7 +14,14 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
-## version 0.1.15 ~~ 'a major merger I'
+## version 0.1.15 ~~ 'repair the stones'
+
+* Something happened on the way to version 42.06...
+  * Fixed pretty much ALL the tiles in layer stones as they got seriously changed
+* Included init files to avoid future merger confusion
+* Included one phoebus-based art file to avoid future merger confusion 
+
+## version 0.1.14 ~~ 'a major merger I'
 
 * So, yeah... version 42.04
 
