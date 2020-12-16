@@ -23,6 +23,7 @@ Carvidae, common the temperate world over
 	-- common biological characteristics
 	[CHILD:2][MAXAGE:15:25]
 	[CREATURE_TILE:'d'][COLOR:6:0:0]
+	[CREATURE_CLASS:MAMMAL]
 	[CREPUSCULAR][NOCTURNAL][HOMEOTHERM:10067][SWIMS_INNATE]
 	[VISION_ARC:50:310]
 	
