@@ -14,6 +14,13 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.16 ~~ 'a major merger II'
+
+* Something ELSE happened (much later) on the way to version 47.04...
+  * Reorganized all the language files by FIXING 47.04's lack of having its newly defined word COMPANY actually in any of the languages, and alphabetizing and separating out the new words I made in the past
+  * Re-added ye olde Katherinite back as Kathentine/Kathenstone
+  * compared and contrasted changes to animals and objects so that neither 47.04's content nor RDM's content got lost (included adding a lot of MAMMAL tags and re-removing moose and deer in favor of their new versions.)
+
 ## version 0.1.15 ~~ 'repair the stones'
 
 * Something happened on the way to version 42.06...
