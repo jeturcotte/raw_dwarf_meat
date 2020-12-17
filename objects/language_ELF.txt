@@ -2238,7 +2238,7 @@ language_ELF
 	[T_WORD:FRUITFUL:ilessa]
 	[T_WORD:GARNET:yaalsa]
 	[T_WORD:GLASS:hoa]
-	[T_WORD:HEGEMONY:olebe]
+	[T_WORD:HEGEMONY:athelye]
 	[T_WORD:HONE:siswa]
 	[T_WORD:ILLEGAL:tsalai]
 	[T_WORD:INDIGNITY:errsa]
