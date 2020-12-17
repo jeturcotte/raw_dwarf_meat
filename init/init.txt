@@ -109,7 +109,7 @@ Change this to LINEAR if you want the texture values to be averaged over the adj
 
 Change this to make the dwarfort.exe process have a different priority.  From highest to lowest, the options are REALTIME, HIGH, ABOVE_NORMAL, NORMAL, BELOW_NORMAL and IDLE.
 
-[PRIORITY:NORMAL]
+[PRIORITY:ABOVE_NORMAL]
 
 Use this to set how fast the game zooms.  The default corresponds to
 increasing grid size by 10 units each time you zoom.
