@@ -2238,7 +2238,7 @@ language_HUMAN
 	[T_WORD:FRUITFUL:parsh]
 	[T_WORD:GARNET:gartae]
 	[T_WORD:GLASS:miyar]
-	[T_WORD:HEGEMONY:ebsor]
+	[T_WORD:HEGEMONY:sapalor]
 	[T_WORD:HONE:tep]
 	[T_WORD:ILLEGAL:enyo]
 	[T_WORD:INDIGNITY:pelk]
