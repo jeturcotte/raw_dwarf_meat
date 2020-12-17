@@ -1094,7 +1094,7 @@ language_DWARF
 	[T_WORD:FOREVER:nalish]
 	[T_WORD:SUBTLE:ozor]
 	[T_WORD:PUPPET:ceshfot]
-	[T_WORD:HEGEMON:dok]
+	[T_WORD:HEGEMON:karl]
 	[T_WORD:AMAZE:edos]
 	[T_WORD:ALCHEMY:anzish]
 	[T_WORD:INSIGHT:luk]
