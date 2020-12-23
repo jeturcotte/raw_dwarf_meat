@@ -280,7 +280,7 @@ language_DWARF
 	[T_WORD:FIERCE:zikel]
 	[T_WORD:FILTH:zikath]
 	[T_WORD:FIN:stagshil]
-	[T_WORD:FIND:atol]
+	[T_WORD:FIND:athol]
 	[T_WORD:FINGER:ok]
 	[T_WORD:FIRE:ziril]
 	[T_WORD:FIRST:uthar]
