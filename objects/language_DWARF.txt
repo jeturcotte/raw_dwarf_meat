@@ -2294,6 +2294,8 @@ language_DWARF
     [T_WORD:SHARPEN:hysach]
     [T_WORD:SIMPLISTIC:guzza]
     [T_WORD:SINGULAR:eliak]
+	[T_WORD:SLATE MINERAL:ilza]
+	[T_WORD:SLATE TOOL:kyr]
     [T_WORD:SMELT:kilal]
  	[T_WORD:SPAN:yeel]
 	[T_WORD:STALK PLANT:hur]
