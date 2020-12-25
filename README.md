@@ -14,6 +14,42 @@ just some stupid public repo of modified raw files for dwarf fortress
 
 # Change log:
 
+## version 0.1.17 ~~ 'further vocabulary VI'
+
+* more language stuff, a lot of which is job and worker related, introducing a basic language system
+  * wherein:
+    * in dwarven, (word) is the job and (word)it is the worker
+    * in elven, (word) is the job and (word)we is the worker
+    * in goblin, (word) is the job and (word)ux is the worker
+    * in human, (word) is the job and (word)ith is the worker
+  * thus adding more words:
+    * AMBUSH and AMBUSHER
+    * BOWYER (to supplement and repair BOW)
+    * BREWER (to supplement BREW)
+    * CAP (not a job or a worker)
+    * CARE and CARETAKER (unique case as both are nouns and verbs at the same time)
+    * CARPENTER and CARPENTRY
+    * CLERK (job AND worker... I'll come back and fix this)
+    * CRAFTER (to supplement and repair CRAFT)
+    * DISSECT and DISSECTOR
+    * ENGRAVE and ENGRAVER
+    * FARMER (to supplement and repair FARM)
+    * HERB and HERBALIST
+    * HUNT and HUNTER
+    * MASON and MASONRY (seriously... it wasn't in there already???)
+    * MINER (to supplement MINE)
+    * PROSPECT and PROSPECTOR
+    * SEEK and SEEKER
+    * SLATE MINERAL and SLATE TOOL (nother work or worker) 
+    * STALK PLANT (not a job or worker, just a plant part)
+    * TRADER (to supplement TRADE)
+    * TRAIN NOUN, TRAIN VERB and TRAINER
+    * TRAPPER (to supplement and repair TRAP)
+    * WEAPON (leaving off smith, etc since that's a word already)
+  * and fixing some exisiting words to fit the job/worker system i'm slowing implementing
+    * COBBLE and COBBLER adjusted
+    * WORSHIP and WORSHIPPER adjusted
+
 ## version 0.1.16 ~~ 'a major merger II'
 
 * Something ELSE happened (much later) on the way to version 47.04...
