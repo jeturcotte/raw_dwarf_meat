@@ -24,31 +24,67 @@ just some stupid public repo of modified raw files for dwarf fortress
     * in human, (word) is the job and (word)ith is the worker
   * thus adding more words:
     * AMBUSH and AMBUSHER
+    * APPRAISE and APPRAISER
     * BOWYER (to supplement and repair BOW)
     * BREWER (to supplement BREW)
+    * BURNER (to supplement BURN)
     * CAP (not a job or a worker)
     * CARE and CARETAKER (unique case as both are nouns and verbs at the same time)
     * CARPENTER and CARPENTRY
+    * CARVE and CARVER
+    * CLEANER (to supplement CLEAN)
     * CLERK (job AND worker... I'll come back and fix this)
-    * CRAFTER (to supplement and repair CRAFT)
+    * CLOTH and CLOTHIER (couldn't think of a verb on this one)
+    * COMEDIAN (to supplement COMEDY)
+    * CONSOLE and CONSOLER
+    * CONVERSE and CONVERSATIONALIST
+    * CRAFTER (to supplement CRAFT)
+    * DESIGN and DESIGNER
     * DISSECT and DISSECTOR
+    * DYER (to supplement DYE)
+    * ENGINE and ENGINEER
     * ENGRAVE and ENGRAVER
-    * FARMER (to supplement and repair FARM)
+    * FARMER (to supplement FARM)
+    * made minor adjustments to existing FISH_NOUN and FISH_VERB to make the latter linguistically consistent with JOB/WORKER additions
+    * FLAT
+    * FLATTER and FLATTERER
+    * made minor adjustments to existing GROW(er) and GROWTH to make both linguistically coinsistent with JOB/WORKER additions
     * HERB and HERBALIST
     * HUNT and HUNTER
+    * INTIMIDATE and INTIMIDATOR (and, technically, 'timid')
+    * LEATHER and LEATHERWORKER (but not leatherworking because it's not really a verb?)
+    * LIAR (to supplement LIE)
+    * LYE (but no lye maker, thanks)
+    * MACE
     * MASON and MASONRY (seriously... it wasn't in there already???)
+    * MECHANIC (to supplement mechanism)
+    * MILK and MILKER
+    * MILL and MILLER
     * MINER (to supplement MINE)
-    * PROSPECT and PROSPECTOR
+    * NEGOTIATE and NEGOTIATOR
+    * OPERATE and OPERATOR
+    * ORGANIZER (to supplement ORGANIZE)
+    * PACIFY, PACIFIER, and PACIFIST
+    * POTASH
+    * PROSPECT and PROSPECTOR 
+    * PUMP
+    * RECORD (didn't feel like trying to make record keeper a word)
     * SEEK and SEEKER
     * SLATE MINERAL and SLATE TOOL (nother work or worker) 
+    * SOAPER (to supplement SOAP)
     * STALK PLANT (not a job or worker, just a plant part)
+    * THRESHER (to supplement GRAIN)
     * TRADER (to supplement TRADE)
     * TRAIN NOUN, TRAIN VERB and TRAINER
-    * TRAPPER (to supplement and repair TRAP)
+    * TRAPPER (to supplement TRAP)
     * WEAPON (leaving off smith, etc since that's a word already)
+    * WEAVER (to supplement and fix a past addition of WEAVE)
+    * WOODWORKER (to supplement WOOD)
+    * WRESTLE and WRESTLER
   * and fixing some exisiting words to fit the job/worker system i'm slowing implementing
     * COBBLE and COBBLER adjusted
     * WORSHIP and WORSHIPPER adjusted
+  * also fixed FELDSPAR calling itself felspar in game
 
 ## version 0.1.16 ~~ 'a major merger II'
 
@@ -90,6 +126,7 @@ just some stupid public repo of modified raw files for dwarf fortress
   * FAST (slow already available)
   * VITREOUS (adj, glassy texture)
   * VITRIOL (n,adj, bitter/cruel)
+  * HIDE, HIDING (was HIDE, now retasked from hiding/hidden), and uh... TANNER
   * HONE (adj,v, to improve)
   * SHARP (adj)
   * SHARPEN (adj,v)
