@@ -99,7 +99,7 @@ item_food
 [LEVEL:4]
 
 [ITEM_FOOD:ITEM_FOOD_TAQUITO]
-[NAME:taco]
+[NAME:taquito]
 [LEVEL:4]
 
 [ITEM_FOOD:ITEM_FOOD_MUFONGO]
